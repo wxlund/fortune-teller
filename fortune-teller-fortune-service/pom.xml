@@ -12,10 +12,10 @@
 	<description>Fortunes Service</description>
 
 	<parent>
-			<groupId>io.spring.cloud.samples</groupId>
-			<artifactId>fortune-teller</artifactId>
-			<version>0.0.1-SNAPSHOT</version>
-			<relativePath>../pom.xml</relativePath>
+		<groupId>io.spring.cloud.samples</groupId>
+		<artifactId>fortune-teller</artifactId>
+		<version>0.0.1-SNAPSHOT</version>
+		<relativePath>../pom.xml</relativePath>
 	</parent>
 
 	<properties>
